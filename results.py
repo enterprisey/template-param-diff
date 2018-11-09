@@ -14,7 +14,7 @@ import MySQLdb
 from wikitools import wiki
 from wikitools import api
 
-TOOL_DIR = "/data/project/apersonbot/public_html/template-parameter-diff/"
+TOOL_DIR = "/data/project/apersonbot/public_html/template-param-diff/"
 
 def main():
     page_template = None
